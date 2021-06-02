@@ -1,0 +1,17 @@
+From kagal
+https://www.kaggle.com/shrutibhargava94/india-air-quality-data/version/1#_=_
+
+
+stn_code
+sampling_date
+state
+location
+agency
+type
+so2Sulphur dioxde
+no2Nitrogen dioxide
+rspmRespirable Suspended Particulate Matter
+spmSuspended Particulate Matter
+location_monitoring_stationlocation of monitoring area
+pm2_5PSI 2.5
+date
